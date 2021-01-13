@@ -1,3 +1,4 @@
+
 <p align="center">
   <img width = "50%" src='res/img/habitat_logo_with_text_horizontal_blue.png' />
   </p>
